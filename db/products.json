@@ -120,26 +120,6 @@
     }
   },
   {
-    "id": 15,
-    "title": "Generic Bronze Computer",
-    "price": 46,
-    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-    "images": [
-      "https://picsum.photos/640/640?r=861",
-      "https://picsum.photos/640/640?r=2582",
-      "https://picsum.photos/640/640?r=6477"
-    ],
-    "creationAt": "2023-05-03T00:09:03.000Z",
-    "updatedAt": "2023-05-03T00:09:03.000Z",
-    "category": {
-      "id": 1,
-      "name": "Clothes",
-      "image": "https://picsum.photos/640/640?r=1983",
-      "creationAt": "2023-05-03T00:09:03.000Z",
-      "updatedAt": "2023-05-03T00:09:03.000Z"
-    }
-  },
-  {
     "id": 16,
     "title": "Handmade Cotton Shirt",
     "price": 155,
@@ -3867,24 +3847,6 @@
     ],
     "creationAt": "2023-05-03T06:05:15.000Z",
     "updatedAt": "2023-05-03T06:05:15.000Z",
-    "category": {
-      "id": 1,
-      "name": "Clothes",
-      "image": "https://picsum.photos/640/640?r=1983",
-      "creationAt": "2023-05-03T00:09:03.000Z",
-      "updatedAt": "2023-05-03T00:09:03.000Z"
-    }
-  },
-  {
-    "id": 207,
-    "title": "washing machine",
-    "price": 1222,
-    "description": "kljakdja",
-    "images": [
-      "https://placeimg.com/640/480/any"
-    ],
-    "creationAt": "2023-05-03T07:35:17.000Z",
-    "updatedAt": "2023-05-03T07:35:17.000Z",
     "category": {
       "id": 1,
       "name": "Clothes",
