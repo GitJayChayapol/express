@@ -40,26 +40,6 @@
     }
   },
   {
-    "id": 7,
-    "title": "Gorgeous Cotton Table",
-    "price": 584,
-    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-    "images": [
-      "https://picsum.photos/640/640?r=577",
-      "https://picsum.photos/640/640?r=6784",
-      "https://picsum.photos/640/640?r=4484"
-    ],
-    "creationAt": "2023-05-03T00:09:03.000Z",
-    "updatedAt": "2023-05-03T00:09:03.000Z",
-    "category": {
-      "id": 5,
-      "name": "Others",
-      "image": "https://picsum.photos/640/640?r=9632",
-      "creationAt": "2023-05-03T00:09:03.000Z",
-      "updatedAt": "2023-05-03T00:09:03.000Z"
-    }
-  },
-  {
     "id": 9,
     "title": "Ergonomic Plastic Hat",
     "price": 41,
@@ -3864,7 +3844,9 @@
     "title": "New Product Course",
     "price": 999,
     "description": "A description",
-    "images": ["https://placeimg.com/640/480/any"],
+    "images": [
+      "https://placeimg.com/640/480/any"
+    ],
     "creationAt": "2023-05-03T03:33:25.000Z",
     "updatedAt": "2023-05-03T03:33:25.000Z",
     "category": {
@@ -3880,7 +3862,9 @@
     "title": "New Product",
     "price": 10,
     "description": "2",
-    "images": ["https://placeimg.com/640/480/any"],
+    "images": [
+      "https://placeimg.com/640/480/any"
+    ],
     "creationAt": "2023-05-03T06:05:15.000Z",
     "updatedAt": "2023-05-03T06:05:15.000Z",
     "category": {
@@ -3896,7 +3880,9 @@
     "title": "washing machine",
     "price": 1222,
     "description": "kljakdja",
-    "images": ["https://placeimg.com/640/480/any"],
+    "images": [
+      "https://placeimg.com/640/480/any"
+    ],
     "creationAt": "2023-05-03T07:35:17.000Z",
     "updatedAt": "2023-05-03T07:35:17.000Z",
     "category": {
